@@ -1,0 +1,1 @@
+{"[1][0][-1]": ["[{backward}][{forward}{upward}][{downward}][{forward}][{downward}][{backward}{upward}]"], "[-1][0][1]": ["[{backward}{upward}]"], "[1][0][1]": ["[{forward}][{forward}{downward}][{backward}{upward}]"], "[-1][0][-1]": ["[{backward}{downward}]"]}
