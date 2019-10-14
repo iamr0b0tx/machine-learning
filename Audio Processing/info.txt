@@ -1,3 +1,0 @@
-know the current data -> classification
-
-know what comes after -> regression
