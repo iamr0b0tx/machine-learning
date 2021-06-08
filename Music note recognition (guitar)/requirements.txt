@@ -57,7 +57,7 @@ packaging==20.4
 pandocfilters==1.4.3
 parso==0.7.1
 pickleshare==0.7.5
-Pillow==8.0.1
+Pillow==8.2.0
 pooch==1.2.0
 prometheus-client==0.8.0
 prompt-toolkit==3.0.8
